@@ -1,5 +1,16 @@
 # ToDoApp
-Steps to create ToDo List.
+
+## Steps to run application.
+1. **Download zip file.** 
+1. **Unzip downloaded source code file.**
+1. **Double click on ToDoApp.xcodeproj file.**
+1. **Xcode will open :**
+   1. Go to general.
+   1. Change signing certificate & Provision certificate.
+   1. Select your device and Run the project.
+
+
+## Steps to use ToDo App.
 
 1. Click on (+) icon on "Tasks" screen.
 <img src = "Image.png" width = "240">
@@ -12,6 +23,6 @@ Steps to create ToDo List.
 
 4. Click on "Edit" button on Top right corner. User can delete or change Task priority.
 
---> Delete <img src = "image4.png" width = "240">
+   1. Delete <img src = "image4.png" width = "240">
 
---> Re-Order list <img src = "image5.png" width = "240">
+   1. Re-Order list <img src = "image5.png" width = "240">
