@@ -6,7 +6,7 @@
 1. **Double click on ToDoApp.xcodeproj file.**
 1. **Xcode will open :**
    1. Go to general.
-   1. Change signing certificate & Provision certificate.
+   1. Change Signing certificate & Provisioning profile.
    1. Select your device and Run the project.
 
 
