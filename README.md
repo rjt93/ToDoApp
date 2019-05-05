@@ -21,7 +21,7 @@
 3. App saves your input and show list on "Task Screen".
 <img src = "image3.png" width = "240">
 
-4. Click on "Edit" button on Top right corner. User can delete or change Task priority.
+4. Click on "Edit" button on Top left corner. User can delete or change Task priority.
 
    1. Delete <img src = "image4.png" width = "240">
 
